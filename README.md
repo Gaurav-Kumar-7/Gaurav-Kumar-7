@@ -1,6 +1,6 @@
 # Hi there, I'm Gaurav 👋
 
-🚀 I'm a Frontend Developer with 3+ years of experience, passionate about building performant, responsive, and accessible web applications and mobile application. I specialize in Angular and React, and I'm on a journey to becoming a Full Stack Developer by diving into .NET and backend technologies.
+🚀 I'm a FullStack Developer with 3+ years of experience, passionate about building performant, responsive, and accessible web applications and mobile application. I specialize in Angular and React, and I'm on a journey to becoming a Full Stack Developer by diving into .NET and backend technologies.
 
 ---
 
